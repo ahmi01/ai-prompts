@@ -1,0 +1,4 @@
+*.pptx
+*.pyc
+__pycache__/
+.kiro/
